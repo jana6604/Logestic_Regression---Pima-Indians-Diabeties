@@ -103,3 +103,14 @@ Matplotlib
 Seaborn
 
 Scikit-learn
+
+Contact:  (If you'd like to connect, collaborate, or provide feedback)
+ 
+Author : Janardhan
+  
+-Email: janadrjt6604@gmail.com  
+-LinkedIn: [linkedin.com/in/janardhan-](https://www.linkedin.com/in/janardhan-)  
+-GitHub: [ggithub.com/jana6604](https://github.com/jana6604)
+
+
+Feel free to fork, use, or connect with me for collaboration!
